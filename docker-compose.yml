@@ -1,0 +1,14 @@
+version: '2'
+
+services:
+  mongodb-dev-primary:
+    image: 'bitnami/mongodb:latest'
+    ports:
+      - "27017:27017"
+    volumes:
+      - ./mongodb_data:/bitnami
+    environment:
+      - MONGODB_ADVERTISED_HOSTNAME=localhost
+      - MONGODB_USERNAME=Guru99
+      - MONGODB_PASSWORD=password
+      - MONGODB_DATABASE=admin
