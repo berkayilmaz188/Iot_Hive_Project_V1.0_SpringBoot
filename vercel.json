@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/api/:path*", "destination": "https://www.beehiliv.com.tr:8080:path*" }
+  ]
+}
