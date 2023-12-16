@@ -25,7 +25,7 @@ The project is deployed by me to an Ubuntu 20.04 server using Docker and Nginx.
 Mongo:4.2.3 version is running via Docker.
 
 The project development process took place between October 15, 2022, and January 10, 2023.
-The domain www.beehiliv.com.tr and the Ubuntu hosting have expired due to a one-year timeframe.
+The domain and the Ubuntu hosting have expired due to a one-year timeframe.
 
 # Description Turkish 
 
@@ -48,4 +48,4 @@ Proje ubuntu 20.04 sunucuya docker ve nginx kullanılarak tarafımca deploy edil
 Mongo:4.2.3 sürümü docker üzerinden çalıştırılarak kullanılmaktadır.
 
 Proje geliştirme süreci 15.10.2022 - 10-01.2023 tarihleri arasındadır.
-www.beehiliv.com.tr alan adı ve ubuntu hosting süresi 1 yıllık olduğu için zaman aşımına uğradı.
+Alan adı ve ubuntu hosting süresi 1 yıllık olduğu için zaman aşımına uğradı.
